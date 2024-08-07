@@ -10,4 +10,4 @@ repository = "https://github.com/lipk/hunspell-rust"
 edition = "2018"
 
 [dependencies]
-hunspell-sys = { git = "https://github.com/brainlock/hunspell-sys.git", rev = "f84fe53b7052217a69f372331aafbf22c616504d" }
+hunspell-sys = { git = "https://github.com/brainlock/hunspell-sys.git", rev = "f59b7e66674a1c9f42ee66cdabbe1c91b7af3f06" }
